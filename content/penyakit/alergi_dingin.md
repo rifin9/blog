@@ -1,3 +1,13 @@
+---
+title: "Ciri-Ciri Alergi Dingin"
+slug: "ciri_ciri_alergi_dingin"
+tags : ["Alergi", "Penyakit", "Dingin"]
+categories : ["Penyakit", "Artikel", "Alergi"]
+date : "2019-08-20"
+description : "Alergi dingin disebabkan oleh pelepasan histamin dan zat kimia dalam aliran darah yang dipicu oleh udara dingin."
+draft: false
+---
+
 ## Pengertian Alergi Dingin
 
 Alergi Dingin (Urtitkaria dingin) adalah reaksi kulit dalam kurun waktu beberapa menit setelah Anda terkena paparan dingin, baik dari air maupun udara. Alergi dingin dapat menyerang siapa saja dan memiliki ciri-ciri yang berbeda.

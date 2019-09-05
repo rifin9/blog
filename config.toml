@@ -1,4 +1,4 @@
-baseURL = "https://example.org/"
+baseURL = "http://yosehat.com/"
 languageCode = "id-id"
 title = "Dokterku - Cara Sehat Dari Rumah"
 defaultContentLanguage = "id"
@@ -32,7 +32,7 @@ post = "/:slug/"
     author = "Saiful Arifin"
 
     # This text appears in site header under website title
-    subtitle = "Blog Pengguna Linux dari Lombok"
+    subtitle = "Cara Sehat Dari Rumah"
 
     # Search engine URL
     searchEngineURL = "https://www.google.com/search"
@@ -61,3 +61,4 @@ post = "/:slug/"
 
   # Set to true to disable downloading of remote Google fonts
   disableGoogleFonts = false
+

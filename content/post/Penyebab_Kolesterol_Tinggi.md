@@ -2,6 +2,10 @@
 title: "Penyebab Kolesterol Tinggi"
 date: "2019-07-07T22:37:15+08:00"
 slug: "penyebab-kolesterol-tinggi"
+tags : ["kolesterol", "Makanan"]
+categories: ["Penyakit", "Artikel", "Kolesterol"]
+date : "2019-08-22"
+description : "Penyakit kolerterol tinggi ditandai oleh kadar LDL dan kadar HDL yang rendah dari nilai normal."
 draft: false
 ---
 
@@ -67,4 +71,5 @@ Kunci utama mencegah kolesterol tinggi adalah mengurangi konsumsi makanan tinggi
 Kolesterol tinggi umumnya memicu penyakit kardiovaskular yang gejala utamanya adalah angin duduk. Kondisi nyeri dada atau ketidaknyamanan yang terjadi ketika otot jantung tidak cukup memiliki suplai darah yang kaya oksigen. Kalau kamu mengalami gejala tersebut, sebaiknya segera periksakan ke dokter untuk mendapatkan penanganan.
 
 > Baca Juga: [Buah yang Dianjurkan untuk Pengidap Kolesterol Tinggi](/post/Buah-Yang-Membantu-Menurunkan-Kolesterol/)
+>
 > Baca Juga: [Intip Makanan dan Minuman Penurun Kolesterol Tinggi](/zzz)
