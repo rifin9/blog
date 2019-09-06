@@ -47,7 +47,7 @@ paginate = 10
     email = "your@email.com"
     contact_form_ajax = false
 
-    about_us = "<p>Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas.</p>"
+    about_us = "<p>Hobi membangun aplikasi dan juga berbagi info yang bermanfaat untuk orang lain.</p>"
     copyright = "Copyright (c) 2015 - 2016, YourCompany; all rights reserved."
 
     # Format dates with Go's time formatting
@@ -55,13 +55,10 @@ paginate = 10
 
     logo = "img/logo.png"
     logo_small = "img/logo-small.png"
-    address = """<p><strong>Universal Ltd.</strong>
-        <br>13/25 New Avenue
-        <br>Newtown upon River
-        <br>45Y 73J
-        <br>England
+    address = """<p><strong>Saiful Arifin</strong>
+        <br>DKI Jakarta
         <br>
-        <strong>Great Britain</strong>
+        <strong>Indonesia</strong>
       </p>
       """
 

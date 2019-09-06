@@ -6,10 +6,9 @@ tags : ["kolesterol"]
 categories: ["Penyakit", "Kesehatan"]
 date : "2019-08-22"
 description : "Penyakit kolerterol tinggi ditandai oleh kadar LDL dan kadar HDL yang rendah dari nilai normal."
+banner: "/img/kolesterol.jpg"
 draft: false
 ---
-
-![Kolesterol](/img/kolesterol.jpg "Penyebab Kolesterol")
 
 ### Apa Itu Kolesterol
 Kolesterol adalah zat berlilin yang dibuat oleh tubuh yang juga ditemukan dalam makanan. Faktanya, kolesterol adalah zat yang dibutuhkan tubuh untuk menghasilkan hormon, vitamin D dan produk penting lainnya. Setelah makanan yang mengandung kolesterol masuk ke dalam tubuh, zat ini dibawa melalui darah yang kemudian melekat pada protein. Kombinasi protein dan kolesterol ini disebut lipoprotein. 
