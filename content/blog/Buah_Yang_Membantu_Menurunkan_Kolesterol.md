@@ -3,12 +3,11 @@ title: "Buah Yang Membantu Menurunkan Kolesterol"
 date: "2019-08-07T22:37:15+08:00"
 slug: "Buah-Yang-Membantu-Menurunkan-Kolesterol"
 tags : ["kolesterol", "Makanan"]
-categories : ["Penyakit", "Artikel", "Kolesterol"]
+categories : ["Penyakit", "Kesehatan"]
 description : "Berikut 7 Buah-buahan yang baik untuk pengidap kolesterol tinggi."
+banner : "/img/buah_penurun_kolesterol.jpg"
 draft: false
 ---
-
-!["Buah Penurun Kolesterol"](/img/buah_penurun_kolesterol.jpg "Buah Penurun Kolesterol")
 
 Banyak makanan yang dianjurkan untuk dikonsumsi oleh pengidap [kolesterol tinggi](/post/penyebab-kolesterol-tinggi) seperti yang banyak mengandung serat, kacang-kacangan, mengkonsumsi ikan dan ayam, serta buah-buahan yang dianjurkan untuk pengidap kolesterol tinggi.
 

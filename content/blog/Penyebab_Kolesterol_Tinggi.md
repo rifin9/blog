@@ -2,8 +2,8 @@
 title: "Penyebab Kolesterol Tinggi"
 date: "2019-07-07T22:37:15+08:00"
 slug: "penyebab-kolesterol-tinggi"
-tags : ["kolesterol", "Makanan"]
-categories: ["Penyakit", "Artikel", "Kolesterol"]
+tags : ["kolesterol"]
+categories: ["Penyakit", "Kesehatan"]
 date : "2019-08-22"
 description : "Penyakit kolerterol tinggi ditandai oleh kadar LDL dan kadar HDL yang rendah dari nilai normal."
 draft: false

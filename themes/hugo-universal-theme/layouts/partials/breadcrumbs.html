@@ -1,0 +1,26 @@
+<div id="heading-breadcrumbs">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-12">
+                <h2>{{ .Title }}</h2>
+            </div>
+             <div class="col-md-12">
+                <p class="text-muted text-uppercase">
+                            {{ if .Site.Params.author }}{{ i18n "authorBy" }} <a href="#">{{ .Site.Params.author }}</a> | {{ end }}{{ .Date.Format .Site.Params.date_format }}
+                 </p>
+            </div>
+             <div class="col-md-12">
+                {{ if isset .Params "tags" }}
+                {{ range .Params.tags }}
+                <a class="badge badge-success link-white" href="{{ $.Site.BaseURL }}tags/{{ . | urlize | lower }}">#{{ . }}</a>
+                {{ end }}
+
+                {{ else }}
+				{{ range $name, $items := .Site.Taxonomies.categories }}
+                <a class="badge badge-success link-white" href="{{ $.Site.BaseURL }}categories/{{ $name | urlize | lower }}">#{{ $name }}</a>
+                {{ end }}                
+              	{{ end }}
+            </div>
+        </div>
+    </div>
+</div>

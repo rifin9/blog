@@ -3,7 +3,7 @@ title: "10 Anjuran Dokter Mengontrol Minyak di Wajah"
 date: "2019-08-07T22:37:15+08:00"
 slug: "anjuran_dokter_mengontrol_minyak_di_wajah"
 tags : ["Perawatan Kulit Wajah", "Kulit"]
-categories : ["Perawatan Kulit", "Kulit Wajah", "Perawatan"]
+categories : ["Skin Care", "Kesehatan"]
 description : "Berikut 10 Anjuran Dokter untuk mengontrol minyak di wajah."
 draft: false
 ---
